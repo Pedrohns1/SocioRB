@@ -2,7 +2,7 @@
 
 ## 📌 Desafio Escolhido
 
-O projeto do nosso objetivo foi desenvolver um protótipo funcional utilizando abordagens Low Code / No Code / Vibecode, explorando ferramentas capazes de acelerar o desenvolvimento de aplicações sem exigir programação tradicional em larga escala.
+Nosso objetivo foi desenvolver um protótipo funcional utilizando abordagens Low Code / No Code / Vibecode, explorando ferramentas capazes de acelerar o desenvolvimento de aplicações sem exigir programação tradicional em larga escala.
 
 Nossa proposta foi a criação do SóciosRB, voltado específicamemte para pessoas que amam esporte, sendo mais especíco pessoas que amam o Flamengo te deixando o quento mais perto do seu time do coração, Seja no futebol, basquete, natação onde quer que esteja temos como:
 
