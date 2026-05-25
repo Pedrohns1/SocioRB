@@ -57,5 +57,5 @@ iria fazer.
 
 ## 👥 Colaboração
 
-Gustavo Magalhães Silva
-Pedro Henrique Neves
+- Gustavo Magalhães Silva
+- Pedro Henrique Neves
